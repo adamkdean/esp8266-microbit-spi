@@ -18,6 +18,9 @@ I'm using an Adafruit Huzzah Feather ESP8266.
 
 ![Microbit v2](https://user-images.githubusercontent.com/1639527/201537450-9c39dbdb-c4e4-4cca-a10d-828d2061f5e1.png)
 
+## Essential reading
+
+[SPI Tutorial for Arduino and ESP8266](https://diyi0t.com/spi-tutorial-for-arduino-and-esp8266/)
 
 ## Disclaimer
 

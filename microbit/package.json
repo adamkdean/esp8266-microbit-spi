@@ -8,7 +8,9 @@
     "prep": "pxt target microbit && pxt install",
     "start": "pxt serve && pxt run",
     "build": "pxt build",
-    "deploy": "pxt deploy"
+    "deploy": "pxt deploy",
+    "monitor": "screen /dev/cu.usbmodem14302 115200",
+    "dev": "pxt build && pxt deploy && npm run monitor"
   },
   "dependencies": {
     "abab": "^2.0.6",
