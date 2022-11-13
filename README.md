@@ -2,6 +2,8 @@
 
 Communicating between ESP8266 and a Microbit via SPI.
 
+Note: this repo is a WIP. Documentation is very poor for SPI support.
+
 ## Specs
 
 The BBC Micro:bit v2 has a Nordic nRF52833 Core variant	Arm Cortex-M4 32 bit processor with FPU at 64 MHz.
